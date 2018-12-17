@@ -1,5 +1,6 @@
 ﻿# Human Protein Atlas Image Classification
 Kaggle图像分类比赛，数据集由医疗机构提供，旨在识别不同蛋白质种类
+
 https://www.kaggle.com/c/human-protein-atlas-image-classification
 
 - 数据分布高度不平衡，自定义focal loss
@@ -9,4 +10,4 @@ https://www.kaggle.com/c/human-protein-atlas-image-classification
 - 使用macro F1 score作为精度标准
 - 存取ckeckpoint文件
 
-![dogcat](https://storage.googleapis.com/kaggle-competitions/kaggle/3362/media/woof_meow.jpg)
+![protain](https://www.kaggleusercontent.com/kf/6854998/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..FR36ad37SyvLS_J1U4egzA.HiFmn91zu1oBBXRGHda9wm7rCuRiGjkcqetqry4aCBKoLfjYcSb_7rVQ_FKzIvTvNuJo7XP7vE-r6Gx2dCLIlgolFWg74RKxzJv7i0ESmvlbbw8LMSlTnu0XwgrJUNCb8dBlVNxWYXlGKAx2QG3N3gMPH5IkijDPah0P-0JCsvoS8FDMANVkJdew8rKowiCE.dSk9kdN8yrgYIV-dCoN8tw/__results___files/__results___13_0.png)
